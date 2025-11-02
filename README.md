@@ -37,11 +37,7 @@ The dashboard allows users to explore metrics such as:
 
 ---
 
-## 📂 File Included
 
-| File Name        | Description |
-|------------------|-------------|
-| `Task_01.pbix`   | Power BI file containing the Global Sales Performance Dashboard |
 
 ---
 
